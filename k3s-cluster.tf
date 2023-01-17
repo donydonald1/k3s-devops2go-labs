@@ -359,7 +359,7 @@ module "kube-hetzner" {
   # Finally, you can specify a bootstrap-password for your rancher instance. Minimum 48 characters long!
   # If you leave empty, one will be generated for you.
   # (Can be used by another rancher2 provider to continue setup of rancher outside this module.)
-   rancher_bootstrap_password = "caniseeU@1loverosatanO@1ahahahagsgdsb3bsbvds23445tgdfdswfsfsf"
+   rancher_bootstrap_password = "caniseloerosatO@ahahahagsgdsb3bsbvds23445tgdfdswfsfsf"
 
   # Separate from the above Rancher config (only use one or the other). You can import this cluster directly on an
   # an already active Rancher install. By clicking "import cluster" choosing "generic", giving it a name and pasting
